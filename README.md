@@ -2,6 +2,6 @@
 
 Here is an index of all of my projects and exercises for this course:
 
-1. [Plot of a Running Boy](https://beccagurysh.github.io/assignments/r_setup_plot)
+1. [Plot of a Running Boy](https://beccagurysh.github.io/assignments/plot_of_running_boy.md)
 
 
