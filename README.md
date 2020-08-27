@@ -1,3 +1,7 @@
+# Becca Gurysh
+
+Hi, my name is Becca Gurysh I am from Bucks County PA. I am looking forward to learn more about data science trhought this course. 
+
 # Projects and Exercises
 
 Here is an index of all of my projects and exercises for this course:
