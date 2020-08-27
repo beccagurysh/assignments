@@ -3,4 +3,4 @@
 
 # Challenge Question Plot
 I modified the code from above to create a larger plot with more dwellings and trees.
-![](challenge_question.png)
+![](challenge_problem.png)
