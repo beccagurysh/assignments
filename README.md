@@ -10,5 +10,5 @@ Here is an index of all of my projects and exercises for this course:
 2. [8/26 Path Between Homes](path_between_homes.md)
 3. [8/28 Population Bar Graphs](bar_graphs.md)
 4. [9/4 Application Bar Graphs](data_mgt_pt2.md)
-5. [9/11 Data Scince Reflection 1](reflection_1.md)
+5. [9/11 Data Science Reflection 1](reflection_1.md)
 
