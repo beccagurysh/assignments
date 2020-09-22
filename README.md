@@ -12,3 +12,4 @@ Here is an index of all of my projects and exercises for this course:
 4. [9/4 Application Bar Graphs](data_mgt_pt2.md)
 5. [9/11 Data Science Reflection 1](reflection_1.md)
 6. [9/14 Census Plots](census.md)
+7. [9/22 Population Growth](fundamentals_pt2.md)
