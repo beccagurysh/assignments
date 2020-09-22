@@ -1,1 +1,4 @@
+# Project 2, Part 1
 
+This graph shows the changes in population in each US state, Washington DC, and Puerto Rico every year from 2010 to 2014. The data is diveded in 9 separate graphs to increase readablility. 
+![](pop_increase.png)
