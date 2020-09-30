@@ -13,3 +13,4 @@ Here is an index of all of my projects and exercises for this course:
 5. [9/11 Data Science Reflection 1](reflection_1.md)
 6. [9/14 Census Plots](census.md)
 7. [9/22 Population Growth](fundamentals_pt2.md)
+8. [9/30 Project 2 Part 2](project2_part2.md)
