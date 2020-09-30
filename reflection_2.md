@@ -6,3 +6,4 @@ The first attempt just used a Bandit algorithm to identify and send the best not
 
 The first two issues were addressed by dividing the users into groups based both on frequency of use and the language that they were learning. The third issue was much more difficult to address. DouLingo modified their Bandit algorithm to take into account which notifications each user had already received. They did this by using the same model the company had already been using to determine how much of a language a user would forget over different amounts of time. This ‘forgetting curve’ allowed DouLingo to keep their reminders exciting to their users without having to constantly write new ones. After making these changes and launching the new system, the company reported increased engagement after only a few weeks of tailored notifications.
 
+Source: (https://blog.duolingo.com/hi-its-duo-the-ai-behind-the-meme/)
