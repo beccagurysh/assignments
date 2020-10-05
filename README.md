@@ -15,3 +15,4 @@ Here is an index of all of my projects and exercises for this course:
 7. [9/22 Project 2 Part 1](fundamentals_pt2.md)
 8. [9/30 Project 2 Part 2](project2_part2.md)
 9. [10/2 Data Science Reflection 2](reflection_2.md)
+10. [10/4 Project 2 Part 3](proj2_part3.md)
