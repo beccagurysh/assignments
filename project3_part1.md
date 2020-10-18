@@ -4,4 +4,4 @@ This is a map of Gabon divided into its 9 provinces and then 50 departments.
 ![](gabon.png)
 
 This is a map of Estuaire, the most populous province in Gabon.
-![](estuaie.png)
+![](estuaire.png)
