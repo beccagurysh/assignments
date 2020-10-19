@@ -7,4 +7,4 @@ This is a map of Estuaire, the most populous province in Gabon.
 ![](estuaire.png)
 
 This map of Gabon higlights two provinces. In the green box is Detail A, Estuaire, the most populous province in Gabon. In the blue box is Detail B, Ogooué-Ivindo, one of the least densley populated and least devloped provinces in Gabon.
-![](detail.png)
+![](detail2.png)
