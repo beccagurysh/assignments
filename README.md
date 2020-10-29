@@ -18,3 +18,4 @@ Here is an index of all of my projects and exercises for this course:
 10. [10/04 Project 2 Part 3](proj2_part3.md)
 11. [10/14 Data Science Reflection 3](reflection_3.md)
 12. [10/17 Project 3 Part 1](project3_part1.md)
+13. [10/30 Data Science Reflection 4](reflection_4.md)
