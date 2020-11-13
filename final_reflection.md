@@ -12,7 +12,9 @@ Improvements in data science have drastically improved our ability to understand
 
 Sources (from previous data science reflections):
 Bogost, Story by Ian. “The AI-Art Gold Rush Is Here.” The Atlantic, Atlantic Media Company, 16 July 2019, www.theatlantic.com/technology/archive/2019/03/ai-created-art-invades-chelsea-gallery-scene/584134/. 
+
 Essien, A., Petrounias, I., Sampaio, P. et al. A deep-learning model for urban traffic flow prediction with traffic events mined from twitter. World Wide Web (2020). https://doi.org/10.1007/s11280-020-00800-3
+
 Yancey, Kevin. “‘Hi, It's Duo’: The AI behind the Meme.” Duolingo Blog, Duolingo Blog, 3 Sept. 2020, blog.duolingo.com/hi-its-duo-the-ai-behind-the-meme/. 
 
 
