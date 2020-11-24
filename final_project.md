@@ -20,4 +20,4 @@ This plot shows the access to medical services in Bendjé, Gabon. The purple lin
 There is very little access to medical care in Bendjé, Gabon. The few medical services are only avalible in the most populous area leaving those in rural areas without any relable medical services.
 
 # Accessibility 3
-![]#3DPlot
+![](3DPlot).png
