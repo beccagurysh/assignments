@@ -15,8 +15,9 @@ This plot highlights the most urbanized areas in Bendjé, Gabon.
 
 # Accessibility 2
 
-![](just_roads.png)
-
+This plot shows the access to medical services in Bendjé, Gabon. The purple line represents the main road and the pink lines are a network of tracks. The small dots in the Northwest represent medical centers. The red dots represent clinics, the blue dots are pharmacies, and the green dot represents a doctor's office.
 ![](pop&roads.png)
+There is very little access to medical care in Bendjé, Gabon. The few medical services are only avalible in the most populous area leaving those in rural areas without any relable medical services.
 
 # Accessibility 3
+![]#3DPlot
