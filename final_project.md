@@ -3,7 +3,7 @@
 # Accessibility 1
 ![](point_file.png)
 ![](sm_pop20.png)
-![](subpols.png)
+![](subpols_filtered.png)
 
 # Accessibility 2
 
