@@ -4,7 +4,7 @@
 ![](point_file.png)
 ![](sm_pop20.png)
 ![](subpols.png)
-![](subpolys_filtered.png)
+
 # Accessibility 2
 
 # Accessibility 3
