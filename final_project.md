@@ -4,7 +4,6 @@
 ![](point_file.png)
 ![](sm_pop20.png)
 ![](subpolys.png)
-![](subpolys_filtered.png)
 
 # Accessibility 2
 
