@@ -14,7 +14,11 @@ This plot highlights the most urbanized areas in Bendjé, Gabon.
 ![](urban_area.png)
 
 # Accessibility 2
+
 ![](just_roads.png)
+
 ![](zoom.jpg)
+
 ![](pop&roads.png)
+
 # Accessibility 3
